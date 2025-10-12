@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed khalil</h1>
-<h3 align="center">A passionate Backend Developer who loves designing clean, scalable, and efficient systems. Turning ideas into powerful backend applications using NestJS, TypeScript, and PostgreSQL. Passionate about clean architecture, continuous learning, and real-world problem solving. Computer Science & AI student dedicated to building impactful software that makes a difference.</h3>
+<h3 align="center">A passionate Backend Developer who loves designing clean, scalable, and efficient systems. Turning ideas into powerful backend applications using ExpressJs NestJS, TypeScript, and PostgreSQL. Passionate about clean architecture, continuous learning, and real-world problem solving. Computer Science & AI student dedicated to building impactful software that makes a difference.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhasssan1" alt="ahmedhasssan1" /></a> </p>
 
