@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="+2001550442462" target="blank">
+  <a href="+201550442462" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
