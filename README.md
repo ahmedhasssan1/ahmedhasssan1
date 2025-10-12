@@ -3,16 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedhasssan1" alt="ahmedhasssan1" /></a> </p>
 
-- 📫 How to reach me **ah1585229@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="+201550442462" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" />
+<h2 align="center">🌐 Social</h2>
+<p align="center">
+  <a href="mailto:ah1585229@gmail.com">
+    <img src="https://img.icons8.com/?size=50&id=37246&format=png&color=000000" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="ah1585229@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  <a href="https://wa.me/+201550442462">
+    <img src="https://img.icons8.com/?size=50&id=16713&format=png&color=000000" alt="WhatsApp"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/hussein-elghareb/](https://www.linkedin.com/in/ahmed-hassan-771139233/)">
+    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </p>
 
