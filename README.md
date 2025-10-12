@@ -22,10 +22,10 @@
   Competitive Programming Profiles
 </h2>
 <p align="center">
-  <a href="https://codeforces.com/profile/7ussein_el8areb">
+  <a href="https://codeforces.com/profile/Elsakr">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=FFFFFF&logo=Codeforces&logoColor=03a89e&label=" alt="Codeforces"/>
   </a>
-  <a href="https://leetcode.com/u/7usseinel8areb/">
+  <a href="https://leetcode.com/u/ahmedhassankhalil/">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Leetcode&color=000000&logo=Leetcode&logoColor=ffa116&label=" alt="Leetcode"/>
   </a>
 </p>
