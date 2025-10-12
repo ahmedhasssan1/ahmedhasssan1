@@ -12,7 +12,7 @@
   <a href="https://wa.me/+201550442462">
     <img src="https://img.icons8.com/?size=50&id=16713&format=png&color=000000" alt="WhatsApp"/>
   </a>
-  <a href="[https://www.linkedin.com/in/hussein-elghareb/](https://www.linkedin.com/in/ahmed-hassan-771139233/)">
+  <a href="https://www.linkedin.com/in/ahmed-hassan-771139233">
     <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </p>
